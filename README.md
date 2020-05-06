@@ -1,19 +1,6 @@
-<h1 align="center">
-<img
-		width="250"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/logo.png">
-</h1>
-
 <h3 align="center">
 	Twitter Favoriter Bot - NodeJS
 </h3>
-
-<p align="center">
-<img
-		width="700"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot0.png">
-</p>
-
 
 ## Visão geral
 
@@ -21,23 +8,6 @@
 
 
 ## Como usar
-
-O layout responsivo adequa-se bem a dispositivos móveis e desktop.
-
-<p align="center">
-<img
-		width="350"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot1.png">
-<img
-		width="350"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot2.png">
-<img
-		width="350"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot3.png">
-<img
-		width="350"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot4.png">
-</p>
 
 
 ## Contribuidores
