@@ -6,21 +6,7 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vassourita/twitter-bot-template.git"
-  },
-  "keywords": [
-    "twitter",
-    "bot",
-    "template"
-  ],
-  "author": "Vinicius Vassão",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vassourita/twitter-bot-template/issues"
-  },
-  "homepage": "https://github.com/vassourita/twitter-bot-template#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "twit": "^2.2.11"
