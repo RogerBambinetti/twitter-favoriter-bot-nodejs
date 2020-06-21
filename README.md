@@ -4,8 +4,7 @@
 
 ## Visão geral
 
-**Este é um projeto escolar, desenvolvido para fins de aprendizagem.** 5 telas estão disponíveis, divididas entre o sistema do administrador e usuário.
-
+**Este é um projeto pessoal, desenvolvido para fins de aprendizagem.** O código disponível trata-se de um template de fácil modificação, para que você possa criar seus próprios bots.
 
 ## Como usar
 
