@@ -5,7 +5,7 @@
 
 ## Description
 
-A bot that automatically likes tweets.
+A bot that listen for tweets containing specific words and automatically likes them.
 
 ## Requirements
 
